@@ -161,7 +161,7 @@ nav a:hover{
     background-color: #E6E6E6;
     text-align: center;
     border-radius: 20px;
-    height: 450px;
+    height: 500px;
     width: 500px;
 }
 
@@ -306,4 +306,29 @@ footer a{
     
 
 }
+h6{
+    font-size: 15px;
+}
 
+.phone{
+    
+    margin: 5px 0px;
+}
+
+.maps{
+    text-decoration: none;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: white;
+    color: black;
+    margin-bottom: 10px;
+}
+
+.Cname{
+    margin-top: 20px;
+}
+
+.logo{
+    color: white;
+}
